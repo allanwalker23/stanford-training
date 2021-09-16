@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jsonviewer",
+    "slug": "jsonviewer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jsonviewer"
+}
